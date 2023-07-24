@@ -1,0 +1,74 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.image {
+  border-radius: 130px;
+}
+
+.image-box{
+   margin-top: 65px;
+}
+
+.name {
+  color: rgb(225, 193, 142);
+  margin-bottom: 20px;
+}
+
+.resume {
+  margin-left: 65px;
+  margin-top: 60px;
+}
+
+.resume-button {
+  width: 100px;
+  height: 55px;
+  background-color: rgb(201, 155, 81);
+  border-style: none;
+  border-radius: 50px;
+  cursor: pointer;
+  color: hsl(36, 74%, 65%);
+  margin-left: 100px;
+}
+.resume-link {
+  color: hsl(36, 100%, 99%);
+  font-size: medium;
+  text-decoration: none;
+}
+
+.image-box {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+.paragaraph {
+  text-align: center;
+  /* text-align: center; */
+  font-size: 22px;
+  margin-bottom: 30px;
+}
+
+.paragaraph a {
+  /* text-decoration: none; */
+
+}
+.skill{
+    margin-bottom: 40px;
+    margin-left: 300px;
+}
+
+.title{
+  font-size: 22px;
+}
+
+.skills-one{
+    
+}
+
+.skills-icons{
+  display: flex;
+  justify-content: space-evenly;
+}
+
