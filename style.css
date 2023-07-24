@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+.house{
+  display: flex;
+  flex-direction: columngit ;
+}
+
 .image {
   border-radius: 130px;
 }
@@ -44,7 +49,8 @@
   margin-bottom: 40px;
 }
 .paragaraph {
-  text-align: center;
+  text-align: left;
+  align-self: center;
   /* text-align: center; */
   font-size: 18px;
   margin-bottom: 30px;
