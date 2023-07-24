@@ -6,7 +6,7 @@
 
 .house{
   display: flex;
-  flex-direction: columngit ;
+  flex-direction: column;
 }
 
 .image {
